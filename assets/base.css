@@ -2124,6 +2124,7 @@ product-info .loading__spinner:not(.hidden) ~ *,
 
 /* utility-bar */
 .utility-bar {
+  /* background-color: red !important; */
   height: 100%;
 }
 
